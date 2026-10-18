@@ -1,13 +1,23 @@
-# Project Tenderloin
+# Project Tenderloin ![](images/icon.png)
 
 Project Tenderloin is an [Next.js](https://nextjs.org) project that aims to ehnance user experience and make your life easier regarding food and meals topic.
+
+![](images/hero.png)
+
+## Screenshots
+
+![Homepage](images/home_desktop.png)
+
+![Lunch Finder (mobile)](images/lunch_finder_mobile.png)
+
+![Recipes (mobile)](images/recipes_overview_mobile.png)
 
 # Availability
 
 Latest version is always available at Vercel:
 - [https://project-tenderloin.vercel.app/](https://project-tenderloin.vercel.app/)
 
-# Status
+# Status ![](images/icon_working.png)
 
 This project is still far from finished! Not for everyday use. See:
 - [Issues](https://github.com/horsecz/Project-Tenderloin-public/issues)
